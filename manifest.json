@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Aruco.CvAruco.html",
-          "hash": "0ivZ+s7mqKnEtUf8B1wiYXEWX0tUbRW0vP7+cYkYdmQ="
+          "hash": "bi5RHWooPXSlokifCO/VCKAL9gYEY3J8kxvcnnZZreo="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/OpenCvSharp.Internal.NativeMethods.html",
-          "hash": "IZ6HmyZW+IYhNNTwUcoVU3WFXDwEJamTxDJumCO2Yo0="
+          "hash": "JV/+pLUEZ/5oM0PqvCVvGKFQO1kHE37tE1xwhxg8Hx0="
         }
       },
       "is_incremental": false,
